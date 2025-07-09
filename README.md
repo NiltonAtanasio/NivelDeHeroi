@@ -7,6 +7,8 @@ Although the original challenge required only the logic in `index.js`, I enhance
 
 ---
 
+![desafio](https://github.com/user-attachments/assets/1378b882-1938-4d91-b04b-9aa8a7e28bb7)
+
 ## 📌 Sobre o Projeto | About the Project
 
 O desafio solicitado consistia em escrever apenas a lógica JavaScript que classifica o nível de um herói com base na sua quantidade de **XP (experiência)**. Aproveitei a oportunidade para criar uma pequena aplicação web com:

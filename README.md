@@ -53,15 +53,6 @@ The challenge required writing JavaScript logic to classify a hero’s level bas
 
 ---
 
-## 📁 Estrutura do Projeto | Project Structure
-
-📁 NivelDeHeroi
-├── index.html # Estrutura da página | Page structure
-├── style.css # Estilo visual | Visual styles
-└── index.js # Lógica de classificação (desafio original) | Challenge Logic (Original Challenge)
-
----
-
 ## ▶️ Como Executar | How to Run
 
 1. Clone o repositório / Clone the repository:
